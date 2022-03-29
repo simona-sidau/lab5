@@ -1,0 +1,24 @@
+# ninja log v5
+7	556	6702742396591193	CMakeFiles/lab4coordonate.dir/Rectangle/Rectangle.cpp.obj	26d1e3b1e03fb43c
+1	204	6702796152414311	build.ninja	f43e506ff1957683
+11	88	6702742391876897	CMakeFiles/lab4coordonate.dir/main.cpp.obj	b81789234eab83cf
+3	405	6702742395028608	CMakeFiles/lab4coordonate.dir/Point/Point.cpp.obj	4da4e2e988270cb5
+3	400	6702770282837280	CMakeFiles/lab4coordonate.dir/Menu/menu.cpp.obj	4ad04420ac2c8263
+14	517	6702742396122426	CMakeFiles/lab4coordonate.dir/Tests/Tests.cpp.obj	8bacdd6503d6a8a5
+400	619	6702770284990355	lab4coordonate.exe	2e62e11c0b9ccd30
+18	389	6702742394872385	CMakeFiles/lab4coordonate.dir/Menu/RunMenu.cpp.obj	c2c08c6f429e15c
+27	380	6702742394716086	CMakeFiles/lab4coordonate.dir/Menu/option.cpp.obj	43335e4dc34deac7
+37	473	6702742395653644	CMakeFiles/lab4coordonate.dir/Repository/Repository.cpp.obj	9747fdb72ddb3990
+33	423	6702742395184874	CMakeFiles/lab4coordonate.dir/Rectangle/Operations.cpp.obj	3ed65e59867c6f63
+8	104	6702796263512370	CMakeFiles/lab4coordonate.dir/main.cpp.obj	74532dca4b920112
+38	586	6702796268356442	CMakeFiles/lab4coordonate.dir/Menu/option.cpp.obj	9d05f52e2eb5191c
+33	593	6702796268356442	CMakeFiles/lab4coordonate.dir/Repository/Repository.cpp.obj	ecdbeb53c513b08f
+43	594	6702796268356442	CMakeFiles/lab4coordonate.dir/Rectangle/Operations.cpp.obj	411928d4bfd2ed92
+18	601	6702796268512691	CMakeFiles/lab4coordonate.dir/Menu/menu.cpp.obj	f2cf5b3de53e200a
+15	603	6702796268512691	CMakeFiles/lab4coordonate.dir/Menu/RunMenu.cpp.obj	1adb986e1ceb1669
+21	604	6702796268512691	CMakeFiles/lab4coordonate.dir/Point/Point.cpp.obj	989485d4fefd92ae
+27	706	6702796269450283	CMakeFiles/lab4coordonate.dir/Tests/Tests.cpp.obj	fbccd066e9c9cb54
+12	744	6702796269919035	CMakeFiles/lab4coordonate.dir/Rectangle/Rectangle.cpp.obj	35238d169c410d85
+744	866	6702796271169110	lab4coordonate.exe	2e62e11c0b9ccd30
+7	595	6702797108449488	CMakeFiles/lab4coordonate.dir/Menu/RunMenu.cpp.obj	1adb986e1ceb1669
+595	792	6702797110447119	lab4coordonate.exe	2e62e11c0b9ccd30
